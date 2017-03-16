@@ -3,20 +3,20 @@ A collection of games designed to be run from the Linux terminal
 
 
 
-###Installation Instructions###
+# Installation Instructions
 
 From the terminal enter 'sudo git clone https://github.com/NetsecBeginner/Terminal-Games'
 
 
 
-###How To Run###
+# How To Run###
 From the terminal
 
   ~navigate to the directory the games are stored in
 
   ~enter 'python [Name of Game You Want to Start]'
   
-###FAQ###
+# FAQ
 
 Q: Will you port this to windows?
 
@@ -54,6 +54,6 @@ A: The OSX terminal is pretty similar to bash, so probably.
 
 
 
-###Bug Reporting###
+# Bug Reporting
 
 Contact me at NetsecAmateur@gmail.com
