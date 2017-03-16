@@ -9,7 +9,7 @@ From the terminal enter 'sudo git clone https://github.com/NetsecBeginner/Termin
 
 
 
-# How To Run###
+# How To Run
 From the terminal
 
   ~navigate to the directory the games are stored in
