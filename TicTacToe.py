@@ -18,6 +18,9 @@ def main():
         #Get Player Input
         PlayerInput()
 
+        #Print Board Second Time(To Show Last Input On Win)
+        PrintBoard()
+
         #Check To See If Either Player Has Won
         if CheckForWin("X") == "X":
             XWins()
