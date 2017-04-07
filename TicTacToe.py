@@ -59,7 +59,7 @@ def Turn(space):
         #Player Toggled
         CurrentPlayer = "O"
 
-    #If Y's Turn
+    #If O's Turn
     elif CurrentPlayer == "O":
         Spaces[int(space) - 1] = "O"
         #Player Toggled
